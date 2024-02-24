@@ -1,10 +1,6 @@
 
 # Microservicio de Reposición de Stock
 
-> **Alumno**: Valente Ignacio\
-> **Legajo**: 46427\
-> **Año**: 2023
-
 ### Reglas de negocio consideradas
 1. Solo se puede tener 1 orden pendiente
 
